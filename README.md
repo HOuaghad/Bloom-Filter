@@ -1,6 +1,7 @@
 # Bloom-Filter
 
-This implementation that was inspired by tarunsharma1/Bloom-Filter makes his implemention into a class and makes use of files.
+This implementation that was inspired by tarunsharma1/Bloom-Filter.
+This implementation makes his implemention into a class and makes use of files.
 
 You can save your bloom filter to a file and load it later.
 
