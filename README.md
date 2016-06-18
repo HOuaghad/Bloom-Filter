@@ -10,7 +10,7 @@ I had to implement this for python3 since the other libraries did not support fi
 Also added automatic size calculation and hash calculation. 
 
 # Usage
-```
+```python
 	items = ['glass', 'moon', 'mouse', 'cat', 'extra', 'pot']
 
 	filepath = './files/words.bloom'
